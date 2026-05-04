@@ -1,0 +1,40 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / ReSharper
+.idea/
+*.DotSettings.user
+
+# .NET / NuGet
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# Test and coverage output
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+*.trx
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Local scratch files
+.dotnet-cli-home/

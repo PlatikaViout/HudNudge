@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+    <PropertyGroup>
+        <Version>0.0.0.1</Version>
+        <PackageProjectUrl>https://github.com/PlatikaViout/HudNudge</PackageProjectUrl>
+        <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
+        <IsPackable>false</IsPackable>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <RootNamespace>HudNudge</RootNamespace>
+        <AssemblyName>HudNudge</AssemblyName>
+    </PropertyGroup>
+</Project>
