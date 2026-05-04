@@ -3,7 +3,7 @@
     "Author": "Plati",
     "Punchline": "Precise vanilla HUD editing.",
     "Description": "Enhances the vanilla HUD Layout editor without replacing it, adding snapping, undo/redo, precise coordinate placement, and pixel nudging with arrow buttons or keyboard arrow keys.",
-    "IconUrl": "https://raw.githubusercontent.com/PlatikaViout/HudNudge/master/Data/hudnudge.png",
+    "IconUrl": "https://raw.githubusercontent.com/PlatikaViout/HudNudge/main/Data/hudnudge.png"
     "ApplicableVersion": "any",
     "Tags": [
         "hud",
