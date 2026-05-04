@@ -26,6 +26,18 @@ When HUD Layout opens, HudNudge briefly scans the native HUD editor list so undo
 - `/hudnudge debug` opens the debug tools window. Alias: `dev`.
 - `/hudnudge logevents` toggles HUD Layout event logging.
 
+## Installation
+
+Add this URL in Dalamud settings:
+
+`/xlsettings → Experimental → Custom Repositories`
+
+```text
+https://raw.githubusercontent.com/PlatikaViout/xiv-tools/main/pluginmaster.json
+```
+
+Then open `/xlplugins`, search for **HudNudge**, and install.
+
 ## Development
 
 Build the plugin with:
